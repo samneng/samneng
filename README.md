@@ -1,7 +1,5 @@
 ### Here what I'm working on 👋
 
-<!--
-**samneng/samneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Website](https://samneng.netlify.app/)
 - 😄 Pronouns: ... Me/Him
 - ⚡ Fun fact: ... I love sport
--->
