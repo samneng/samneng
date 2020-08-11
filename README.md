@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Website](https://samneng.netlify.app/)
 - 😄 Pronouns: ... Me/Him
 - ⚡ Fun fact: ... I love sport
+
+![Samneng's github stats](https://github-readme-stats.vercel.app/api?username=samneng&show_icons=true&theme=vue)
