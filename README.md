@@ -1,3 +1,6 @@
+[![Samneng](https://github.com/samneng/samneng/blob/master/asset/git-cover.png?raw=true)](https://samneng.netlify.app)
+
+
 <p align='center'>
 <a href="https://www.facebook.com/u.samneng"><img height="50" src="https://github.com/samneng/samneng/blob/master/asset/fb.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/neng_jr"><img height="50" src="https://github.com/samneng/samneng/blob/master/asset/ig.png?raw=true"></a>&nbsp;&nbsp;
@@ -11,4 +14,4 @@ My name Samneng, I am a Web Developer currently working at [Marinax PP](https://
 
  ---
 
-![Samneng's github stats](https://github-readme-stats.vercel.app/api?username=samneng&show_icons=true&theme=vue&layout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=samneng&show_icons=true&theme=vue&layout=compact)
